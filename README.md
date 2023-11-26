@@ -2,8 +2,8 @@
 `lo-chain` is a wrapper of [samber/lo](https://github.com/samber/lo) to use chain method.
 
 # Usage
-Create chain instance to use `chain.NewXxx()` and it make it possible to use chain method.
-if you want to original value, use `Value()` method.
+Create chain instance to use `chain.NewXxx()` and it makes possible to use chain method.  
+If you want to original value, use `Value()` method.
 
 ```go
 type comment struct {
